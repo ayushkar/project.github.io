@@ -125,10 +125,10 @@
     <input type="date" >
 </div>
 <div class="d-grid">
-  <button class="btn btn-dark" type="button">Button</button>
+  <button class="btn btn-dark"  type="submit">Submit</button>
  
 </div>
-<!-- <button type="button" class="btn btn-outline-dark">Dark</button> -->
+<!-- <button type="submit" class="btn btn-outline-dark">Dark</button> -->
 
 </form>
 
